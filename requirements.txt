@@ -1,0 +1,4 @@
+# platform-ui-test required libraries:
+behave==1.2.5
+PyHamcrest==1.8.1
+selenium==2.45.0
