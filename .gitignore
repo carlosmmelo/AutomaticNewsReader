@@ -1,0 +1,10 @@
+# Pycharm Ignores
+
+*.pyc
+*.swp
+*.swo
+*.un~
+.DS_Store
+
+.idea
+atlassian-ide-plugin.xml
